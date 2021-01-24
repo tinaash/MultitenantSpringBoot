@@ -1,0 +1,9 @@
+com\kgisl\tech\tenantconfig\routing\CustomRoutingDataSource.class
+com\kgisl\tech\tenantconfig\datasource\DatabaseProperties$Database.class
+com\kgisl\tech\tenantconfig\datasource\DynamicDataSourceProvider.class
+com\kgisl\tech\spring\controller\UserController.class
+com\kgisl\tech\spring\dao\UserDAO.class
+com\kgisl\tech\spring\model\User.class
+com\kgisl\tech\tenantconfig\datasource\DatabaseProperties.class
+com\kgisl\tech\mainapp\MultitenantSpringApplication.class
+com\kgisl\tech\tenantconfig\datasource\DataSourceMap.class
